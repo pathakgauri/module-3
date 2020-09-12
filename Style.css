@@ -9,7 +9,7 @@ h1 {
 
 body {
 	background-image: url("background.jpg");
-	background-color: pink;
+	background-color: grey;
 
 }
 
@@ -104,7 +104,7 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: #FC5F06;
+  background-color: green;
   color: #FFFFFF;
 }
 
